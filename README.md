@@ -7,19 +7,19 @@
 </a>
 
 <a href="https://twitter.com/VarmaShyam87815">
-  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/shyammm/">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.youtube.com/@JavaJod">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <br />
 
 <a href="https://leetcode.com/shyamm_verma/" target="_blank">
-  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 
@@ -37,7 +37,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to to start the career as an entry-level software engineer with a reputed firm driven by technology.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make story and memes
 
 ### Connect with me:
@@ -47,19 +47,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </a>
 
 <a href="https://twitter.com/VarmaShyam87815">
-  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/shyammm/">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.youtube.com/@JavaJod">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <br />
 
 <a href="https://leetcode.com/shyamm_verma/" target="_blank">
-  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
  ---
