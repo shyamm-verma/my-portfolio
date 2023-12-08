@@ -2,25 +2,26 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.instagram.com/shyamm_verma/">
-  <img align="left" alt="Shyam Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/shyamm_verma/" target="_blank">
+  <img align="left" alt="Shyam Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: #bc2a8d;" />
 </a>
 
-<a href="https://twitter.com/VarmaShyam87815">
-  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/VarmaShyam87815" target="_blank">
+  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: #1da1f2;" />
 </a>
 
-<a href="https://www.linkedin.com/in/shyammm/">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shyammm/" target="_blank">
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0077b5;" />
 </a>
 
-<a href="https://www.youtube.com/@JavaJod">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a/>
+<a href="https://www.youtube.com/@JavaJod" target="_blank">
+  <img align="left" alt="Shyam Verma YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="fill: #ff0000;" />
+</a>
 
 <a href="https://leetcode.com/shyamm_verma/" target="_blank">
-  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" style="fill: #ff9900;" />
 </a>
+
 
 
   
@@ -42,25 +43,26 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Connect with me:
 
-<a href="https://www.instagram.com/shyamm_verma/">
-  <img align="left" alt="Shyam Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/shyamm_verma/" target="_blank">
+  <img align="left" alt="Shyam Verma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: #bc2a8d;" />
 </a>
 
-<a href="https://twitter.com/VarmaShyam87815">
-  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/VarmaShyam87815" target="_blank">
+  <img align="left" alt="Shyam Verma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: #1da1f2;" />
 </a>
 
-<a href="https://www.linkedin.com/in/shyammm/">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shyammm/" target="_blank">
+  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0077b5;" />
 </a>
 
-<a href="https://www.youtube.com/@JavaJod">
-  <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a />
+<a href="https://www.youtube.com/@JavaJod" target="_blank">
+  <img align="left" alt="Shyam Verma YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="fill: #ff0000;" />
+</a>
 
 <a href="https://leetcode.com/shyamm_verma/" target="_blank">
-  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" style="fill: #ff9900;" />
 </a>
+
 
  ---
   
