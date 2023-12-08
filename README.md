@@ -16,7 +16,7 @@
 
 <a href="https://www.youtube.com/@JavaJod">
   <img align="left" alt="Shyam Verma LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<br />
+<a/>
 
 <a href="https://leetcode.com/shyamm_verma/" target="_blank">
   <img align="left" alt="Shyam Verma LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
